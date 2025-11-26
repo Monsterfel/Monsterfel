@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou **[Fernando de M Rocha]**  
+# 👋 Olá! Eu sou **Fernando de M Rocha**  
 ### Desenvolvedor Full Stack Júnior
 
 ---
